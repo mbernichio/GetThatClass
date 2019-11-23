@@ -1,5 +1,3 @@
-Step 1 :
-
 Before running script:
 
     Download the selenium driver:
@@ -13,6 +11,7 @@ Before running script:
     This driver is needed to run the login script.
 
 Steps:
+
     1. Fill out info.json with correct info using text editor.
         - username = your netid
         - password = your password
