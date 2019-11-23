@@ -20,6 +20,6 @@ Steps:
         - crn = list of all crn numbers you are trying to get into, put them all in there. Ex. If you just are trying to get into a lecture, you would put "lecture_crn in the brackets. If you need a discussion + lecture, you would put "lecture_crn","discussion_crn" into the brackets. If lecture_crn = 2020 and dicussion_crn was 2021 it would look like this "crn" = ["2020","2021"]. 
         
     2. Run Script
-        - python3 login.py
+        - python3 register.py
 
     3. Get that class!
