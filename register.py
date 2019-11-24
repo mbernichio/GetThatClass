@@ -53,7 +53,7 @@ driver.find_element_by_css_selector("input[value = 'Course Search']").click()
 classes = driver.find_elements_by_css_selector("input[value = 'View Sections']")
 classes[class_num].click()
 
-# check boxes to register for section
+# check boxes to register for section(s)
 for crn_val in crn:
     val = crn_val + " 120201"
     selector_string = "input[type='checkbox'][value='"+ val + "']"
