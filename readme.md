@@ -1,3 +1,6 @@
+Overview:
+This is a python script that out logs-in and registers for the class you want so you can quickly get the class you want before all of the slots fill up.
+
 Before running script:
 
     Download the selenium driver:
